@@ -11,7 +11,7 @@ import (
 	"github.com/tidwall/gjson"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/sraphs/go/x/flat"
+	"github.com/sraphs/flat"
 
 	"github.com/sraphs/encoding/json"
 )

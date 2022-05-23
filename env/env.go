@@ -12,7 +12,7 @@ import (
 	"google.golang.org/protobuf/encoding/protojson"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/sraphs/go/x/flat"
+	"github.com/sraphs/flat"
 )
 
 // Name is the name registered for the env codec.
