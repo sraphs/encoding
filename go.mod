@@ -1,3 +1,3 @@
-module github.com/sraphs/go-starter
+module github.com/sraphs/encoding
 
 go 1.18
