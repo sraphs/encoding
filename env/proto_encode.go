@@ -11,7 +11,7 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"
 
-	"github.com/sraphs/go/x/strcase"
+	"github.com/sraphs/strcase"
 )
 
 // EncodeValues encode a message into url values.

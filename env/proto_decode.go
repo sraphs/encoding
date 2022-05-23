@@ -10,7 +10,7 @@ import (
 
 	"google.golang.org/protobuf/types/known/structpb"
 
-	"github.com/sraphs/go/x/strcase"
+	"github.com/sraphs/strcase"
 
 	"google.golang.org/genproto/protobuf/field_mask"
 	"google.golang.org/protobuf/proto"

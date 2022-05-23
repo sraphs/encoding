@@ -4,13 +4,13 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/sraphs/go/encoding/env"
-	"github.com/sraphs/go/encoding/flag"
-	"github.com/sraphs/go/encoding/form"
-	"github.com/sraphs/go/encoding/json"
-	"github.com/sraphs/go/encoding/proto"
-	"github.com/sraphs/go/encoding/xml"
-	"github.com/sraphs/go/encoding/yaml"
+	"github.com/sraphs/encoding/env"
+	"github.com/sraphs/encoding/flag"
+	"github.com/sraphs/encoding/form"
+	"github.com/sraphs/encoding/json"
+	"github.com/sraphs/encoding/proto"
+	"github.com/sraphs/encoding/xml"
+	"github.com/sraphs/encoding/yaml"
 )
 
 var (
