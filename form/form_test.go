@@ -9,7 +9,7 @@ import (
 	"google.golang.org/protobuf/types/known/timestamppb"
 	"google.golang.org/protobuf/types/known/wrapperspb"
 
-	testData "github.com/sraphs/go/encoding/internal/testdata/complex"
+	testData "github.com/sraphs/encoding/internal/testdata/complex"
 )
 
 type LoginRequest struct {

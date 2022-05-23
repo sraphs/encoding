@@ -10,7 +10,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	testData "github.com/sraphs/go/encoding/internal/testdata/complex"
+	testData "github.com/sraphs/encoding/internal/testdata/complex"
 )
 
 func TestProtoEncodeDecode(t *testing.T) {

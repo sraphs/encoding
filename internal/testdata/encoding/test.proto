@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/sraphs/go/encoding/internal/testdata/encoding/;encoding";
+option go_package = "github.com/sraphs/encoding/internal/testdata/encoding/;encoding";
 
 package testdata.encoding;
 

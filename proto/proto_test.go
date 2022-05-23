@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	testData "github.com/sraphs/go/encoding/internal/testdata/encoding"
+	testData "github.com/sraphs/encoding/internal/testdata/encoding"
 )
 
 func TestName(t *testing.T) {

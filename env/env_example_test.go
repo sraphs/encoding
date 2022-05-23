@@ -12,7 +12,7 @@ import (
 
 	"github.com/tidwall/gjson"
 
-	testData "github.com/sraphs/go/encoding/internal/testdata/complex"
+	testData "github.com/sraphs/encoding/internal/testdata/complex"
 )
 
 func Example() {
@@ -75,6 +75,6 @@ func Example() {
 	}
 
 	fmt.Println(m)
-	//Output:
+	//Outputs:
 
 }
